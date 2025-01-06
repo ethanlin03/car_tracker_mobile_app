@@ -1,1 +1,3 @@
-# car_tracker_mobile_app
+# Car Tracker App
+
+App is designed to help users track car maintanence and even modifications.
